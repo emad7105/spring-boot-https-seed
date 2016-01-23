@@ -1,2 +1,2 @@
-# spring-boot-https-seed - the seed for Spring Boot applications secured by HTTPS
+# spring-boot-https-seed
 The seed for Spring Boot applications secured by HTTPS
