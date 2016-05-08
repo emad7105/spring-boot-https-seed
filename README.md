@@ -5,4 +5,4 @@ Further explanations:
 https://www.heydari.be/spring-boot-application-secured-by-self-signed-https/
 
 # Remarks
-Please note that this certificate is a dummy one to show how one can configure HTTPS with Sprong Boot. You can purchase a valid and strong certificate and use that one instead. And why not trying [Let's Encrypt](https://letsencrypt.org/)?
+Please note that this certificate is a dummy one to show how one can configure HTTPS with Spring Boot. You can purchase a valid and strong certificate and use that one instead. And why not trying [Let's Encrypt](https://letsencrypt.org/)?
